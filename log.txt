@@ -1,34 +1,6 @@
-1721031363623:New Request received
-1721031363682:New Request received
-1721031710667 :/ New Request received
-1721031710723 :/favicon.ico New Request received
-1721031720583 :/ New Request received
-1721031720716 :/favicon.ico New Request received
-1721031724759 :/about New Request received
-1721031724796 :/favicon.ico New Request received
-1721031730768 :/contact New Request received
-1721031730805 :/favicon.ico New Request received
-1721110445549 :/favicon.ico New Request received
-1721110447084 :/contact New Request received
-1721110447123 :/favicon.ico New Request received
-1721110451401 :/ New Request received
-1721110451447 :/favicon.ico New Request received
-1721110452852 :/ New Request received
-1721110452898 :/favicon.ico New Request received
-1721110577613 :/ New Request received
-1721110577674 :/favicon.ico New Request received
-1721110649197 :/about New Request received
-1721110649406 :/favicon.ico New Request received
-1721110676668 :/about?myname=palak New Request received
-1721110676719 :/favicon.ico New Request received
-1721110678275 :/about?myname=palak New Request received
-1721110678323 :/favicon.ico New Request received
-1721110694227 :/about?myname=palak New Request received
-1721110694270 :/favicon.ico New Request received
-1721110695434 :/about?myname=palak New Request received
-1721110695490 :/favicon.ico New Request received
-1721110898717 :/about?myname=palak New Request received
-1721111029255 :/about?myname=palak New Request received
-1721111063979 :/about?myname=palak New Request received
-1721121159827 :/about?myname=pagal New Request received
-1721121166942 :/about?myname=sister New Request received
+1721122837772 :GET   / New Request received
+1721122840474 :GET   / New Request received
+1721122905928 :GET   /about New Request received
+1721123239181 :GET   /about New Request received
+1721123289115 :GET   /about New Request received
+1721123292464 :GET   /signup New Request received
